@@ -20,23 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Papel do Desenvolvedor Backend Utilizando IA Generativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesta task foi utilizada a IA Generativa para criação do roteiro e video e disponibilizada no You Tube
+com o tema O Papel do Desenvolvedor Backend Utilizando IA Generativa. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* ChatGPT
+* Mango Animate.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para gerar o roteiro foi utilizado o ChatGPT
+A criação do video com avatar animado com audio com abertura e encerramento foi feito através da plataforma mangoanimate.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Apresente os resultados do seu projeto](https://youtu.be/w0gOJlscg00)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
