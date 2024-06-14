@@ -35,8 +35,7 @@ Para gerar o roteiro foi utilizado o ChatGPT
 A criação do video com avatar animado com audio com abertura e encerramento foi feito através da plataforma mangoanimate.
 
 ## 🚀 Resultados
-![YouTube Studio Badge](https://img.shields.io/badge/YouTube%20Studio-F00?logo=youtubestudio&logoColor=fff&style=flat)
-https://youtu.be/w0gOJlscg00
+- [Vídeo (Avatar Virtual)](https://youtu.be/w0gOJlscg00)
 
 
 ### Exemplos e Insigths
